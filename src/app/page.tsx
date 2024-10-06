@@ -15,7 +15,7 @@ export default function Home() {
   }
 
   return (
-    <div className="flex h-screen justify-center items-center">
+    <div className="flex h-screen items-center justify-center">
       <div className="flex flex-col gap-20">
         <BlurIn
           word="Project Isa"

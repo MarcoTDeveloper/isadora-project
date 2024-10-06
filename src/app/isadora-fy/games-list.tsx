@@ -41,7 +41,7 @@ const ReviewCard = ({
     >
       <div className="flex flex-row items-center gap-2">
         <img
-          className="rounded-full object-cover size-8"
+          className="size-8·rounded-full·object-cover"
           width="32"
           height="32"
           alt=""
